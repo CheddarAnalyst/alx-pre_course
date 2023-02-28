@@ -1,2 +1,2 @@
 # alx-pre_course
-ALX Github  introduction to Github and various command line projects
+I am now an ALX Student,this is my first repository as a full stack engineer.
